@@ -1,0 +1,14 @@
+{
+    "name": "briefme",
+    "owner": {
+        "name": "BriefMe",
+        "url": "https://briefme.us"
+    },
+    "description": "The BriefMe plugin: timed meeting agendas with a shared live countdown.",
+    "plugins": [
+        {
+            "name": "briefme",
+            "source": "./"
+        }
+    ]
+}
