@@ -1,7 +1,7 @@
 {
     "name": "briefme",
     "displayName": "BriefMe",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "Build a timed meeting agenda in BriefMe and share a live countdown with attendees.",
     "author": {
         "name": "BriefMe",
