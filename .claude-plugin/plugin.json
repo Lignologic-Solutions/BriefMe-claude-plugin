@@ -1,13 +1,13 @@
 {
     "name": "briefme",
     "displayName": "BriefMe",
-    "version": "1.1.2",
+    "version": "1.1.3",
     "description": "Build a timed meeting agenda in BriefMe and share a live countdown with attendees.",
     "author": {
         "name": "BriefMe",
         "url": "https://briefme.us"
     },
-    "homepage": "https://briefme.us/docs/mcp",
+    "homepage": "https://briefme.us",
     "privacyPolicyUrl": "https://briefme.us/privacy",
     "repository": "https://github.com/Lignologic-Solutions/BriefMe-claude-plugin",
     "license": "MIT",
